@@ -16,6 +16,4 @@ More about this:
 
 https://youtu.be/qGbiZseBd_o
 
-This video may also help:
 
-https://youtu.be/Nkm9PoihZOI
