@@ -1,6 +1,6 @@
 # One-Axis-Reaction-Wheel-Stick
 
-Arduino mini, Nidec 24H motors, MPU6050, 3S 500 mAh LiPo battery.
+Arduino mini, Nidec 24H motors, MPU6050.
 
 Balancing controller can be tuned remotely over bluetooth.
 
@@ -9,15 +9,8 @@ Example (change K1):
 Send p+ (or p+p+p+p+p+p+p+) for increase K1.
 
 Send p- (or p-p-p-p-p-p-p-) for decrease K1.
+![viber_image_2024-02-26_20-25-05-314](https://github.com/olto13/KVP_proekt/assets/160617602/deb6d965-fd2d-4fee-a326-7a0e91330fc7)
 
-<img src="/pictures/stick1.jpg" alt="Balancing stick pic"/>
-<img src="/pictures/schematic.png" alt="Schematic"/>
-
-About schematic:
-
-Battery: 3S1P LiPo (11.1V). 
-
-Buzzer: any 5V active buzzer.
  
 More about this:
 
